@@ -1,0 +1,8 @@
+C:\Users\anunp\PycharmProjects\untitled\venv\Scripts\python.exe "C:/Users/anunp/Desktop/Project B/Final/Port Scan using Socket.py"
+Please Enter the Host to be scanned: 192.168.48.1
+Starting scan on Host:  192.168.48.1
+Port 135: OPEN
+Port 139: OPEN
+Port 445: OPEN
+2020-04-16 18:45:23.392689
+Time taken: 1006.2060301303864
